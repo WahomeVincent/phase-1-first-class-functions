@@ -13,5 +13,4 @@ function returnsAnAnonymousFunction() {
     return function(){
         return "This is my anonymous function";
     }
-
 }
